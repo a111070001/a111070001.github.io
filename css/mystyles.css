@@ -1,0 +1,16 @@
+.markbig{
+    font-size: 20px;
+ }
+.markgo{
+
+    font-size: 20px;
+    text-align: center;  
+}
+section#about {
+    background-color: rgb(22, 173, 232);
+    background-image: url(../assets/img/bg.jpg);
+    background-position: center;
+    background-attachment: fixed;
+section#cta{
+    background-color: aqua;
+}
