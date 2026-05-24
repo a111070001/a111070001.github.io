@@ -11,6 +11,7 @@ section#about {
     background-image: url(../assets/img/bg.jpg);
     background-position: center;
     background-attachment: fixed;
-section#cta{
-    background-color: aqua;
+    }
+    section#cta {
+    background-color: seagreen;
 }
