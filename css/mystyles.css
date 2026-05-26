@@ -12,12 +12,29 @@ section#about {
     background-position: center;
     background-attachment: fixed;
     }
-    section#cta {
+section#cta {
     background-color:#055160 ;
 }
 .mark2{
-    background-color: chocolate;
+    background-color:chocolate;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+   
 }
-.about{
-    background-color: #055160;
+.mark1{
+     background-color:chocolate;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    color: aliceblue;
+    margin: -10px auto;
+}
+.mark4{
+    background-color:chocolate;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    color: aliceblue;
+    margin: -10px auto;
 }
