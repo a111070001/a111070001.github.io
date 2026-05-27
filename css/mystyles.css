@@ -2,9 +2,11 @@
     font-size: 20px;
  }
 .markgo{
-
+    color: aliceblue;
     font-size: 20px;
-    text-align: center;  
+    text-align: center; 
+    background-color: aliceblue; 
+    
 }
 section#about {
     background-color: rgb(22, 173, 232);
@@ -18,12 +20,12 @@ section#cta {
 .mark2{
     background-color:chocolate;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     border-radius: 20px;
-   
+   color: #055160;
 }
 .mark1{
-     background-color:chocolate;
+     background-color: chocolate;
     text-align: center;
     padding: 20px;
     border-radius: 20px;
@@ -31,10 +33,33 @@ section#cta {
     margin: -10px auto;
 }
 .mark4{
-    background-color:chocolate;
+    background-color:#055160;
     text-align: center;
     padding: 20px;
     border-radius: 20px;
     color: aliceblue;
     margin: -10px auto;
+}
+.mark5{
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: chocolate;
+    color: #055160;
+}
+a.alink:hover{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 40px;
+}
+.resume-section1{
+    text-align: center;
+}
+.mark6{
+    background-color:#055160;
+    text-align:center;
+    padding: 10px;
+    border-radius: 20px;
+   color: chocolate;
 }
