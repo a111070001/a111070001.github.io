@@ -44,7 +44,7 @@ section#cta {
     text-align: center;
     padding: 10px;
     border-radius: 20px;
-    background-color: chocolate;
+   
     color: #055160;
 }
 a.alink:hover{
@@ -55,9 +55,17 @@ a.alink:hover{
 }
 .resume-section1{
     text-align: center;
+    color:#f28500;
 }
 .mark6{
     background-color:#055160;
+    text-align:center;
+    padding: 10px;
+    border-radius: 20px;
+   color:aliceblue ;
+}
+.mark7{
+    
     text-align:center;
     padding: 10px;
     border-radius: 20px;
