@@ -64,6 +64,7 @@ a.alink:hover{
     padding: 10px;
     border-radius: 20px;
    color:aliceblue ;
+   width: 100%;
 }
 .mark7{
     
@@ -107,4 +108,8 @@ a.alink:hover{
 }
 .aaa10{
     color:#f28500 ;
+    text-align: center;
 }
+ .fa-solid-fa-arrow-down-long-10{
+    font-size: 50px;
+ }
