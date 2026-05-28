@@ -113,3 +113,9 @@ a.alink:hover{
  .fa-solid-fa-arrow-down-long-10{
     font-size: 50px;
  }
+ .noto-serif-tc-uniquifier{
+  font-family: "Noto Serif TC", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
