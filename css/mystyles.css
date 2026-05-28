@@ -13,6 +13,7 @@ section#about {
     background-image: url(../assets/img/bg.jpg);
     background-position: center;
     background-attachment: fixed;
+    background-size: cover;
     }
 section#cta {
     background-color:#055160 ;
